@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "7.6.0",
+  "version": "7.6.1",
 
   "description": "__MSG_extensionDescription__",
 
   "applications": {
     "gecko": {
-      "id": "{4853d046-c5a3-436b-bc36-220fd935ee1d}",
+      "id": "{4853d046-c225-436b-bc36-220fd935ee1d}",
       "strict_min_version": "60.0"
     }
   },
